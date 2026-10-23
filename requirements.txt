@@ -1,0 +1,6 @@
+crewai>=0.100.0
+crewai-tools>=0.40.0
+chromadb>=0.5.0
+google-api-python-client>=2.100.0
+google-auth>=2.30.0
+python-dotenv>=1.0.0
